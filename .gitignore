@@ -1,0 +1,12 @@
+log/
+xhtml/
+packages/
+obj/
+_site/
+Tools/NuGet/
+_site/
+
+.openpublishing.build.mdproj
+.openpublishing.buildcore.ps1
+packages.config
+**/.ignore/**
